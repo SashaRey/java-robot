@@ -135,7 +135,7 @@ public class MainApplicationFrame extends JFrame {
         return testMenu;
     }
 
-    //Выход из приложения
+    //Выход
     private void exitApplication() {
         Object[] options = {"Да", "Нет"};
 
